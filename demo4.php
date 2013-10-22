@@ -12,10 +12,10 @@
 
 <body>
 
-	<div class = 'card'></div>
-	<div class = 'card'></div>
-	<div class = 'card'></div>
-	<div class = 'card'></div>
+	<div class = 'card'>1</div>
+	<div class = 'card'>2</div>
+	<div class = 'card'>3</div>
+	<div class = 'card'>4</div>
 
 </body>
 </html>
